@@ -1,7 +1,4 @@
 <div align="center">
-## Hi 👋 I am Ekene Akubue
-
-
 # Hi 👋 I am Ekene Akubue
 
 
@@ -28,7 +25,6 @@
 ![Notepad++](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+  
 </div>
-<!--
-**ekeneakubue/ekeneakubue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+
